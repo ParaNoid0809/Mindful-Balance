@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888825502195",
+    "project_id": "mindful-balance-d9058",
+    "storage_bucket": "mindful-balance-d9058.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888825502195:android:804974cdffb901699bda86",
+        "android_client_info": {
+          "package_name": "com.example.mindfulbalance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WPnGW0ux_5HcDSk2zrVO_T7QcBCOZto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
