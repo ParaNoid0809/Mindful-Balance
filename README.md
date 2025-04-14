@@ -1,6 +1,7 @@
 # Mindful Balance
 
-Mindful Balance is a Flutter application designed to help users track their mood and emotional well-being through journaling and mood analysis. The app utilizes AI to predict moods based on user input and provides visualizations of mood trends over time.
+Mindful Balance is a Flutter application designed to help users track their mood and emotional well-being through journaling and mood analysis. The app utilizes AI to predict moods based on user input and provides visualizations of mood trends over time. 
+![WhatsApp Image 2025-04-14 at 19 46 40_358898dd](https://github.com/user-attachments/assets/e77e9069-63c4-4cdc-bb9b-66cb49adc54c)
 
 ## Table of Contents
 
