@@ -70,23 +70,6 @@ The app integrates with the following API endpoint for mood prediction:
   ```
 - **Response**: The API returns a JSON object containing the predicted mood and confidence level.
 
-## File Structure
-lib/
-├── models/
-│ └── mood_entry.dart # Data model for mood entries
-├── pages/
-│ ├── log_mood.dart # Mood logging page
-│ ├── moodtrends.dart # Mood trends visualization page
-│ └── mindfulness.dart # Main mindfulness hub page
-├── providers/
-│ └── mood_data_provider.dart # Provider for mood data
-├── services/
-│ └── mood_service.dart # Service for API integration
-├── widgets/
-│ └── mood_trends_chart.dart # Widget for displaying mood trends
-└── main.dart # Entry point of the application
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
