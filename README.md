@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# mindfulbalance
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Mindful Balance
 
 Mindful Balance is a Flutter application designed to help users track their mood and emotional well-being through journaling and mood analysis. The app utilizes AI to predict moods based on user input and provides visualizations of mood trends over time.
@@ -108,4 +90,3 @@ lib/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
->>>>>>> origin/main
